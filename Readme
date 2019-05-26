@@ -1,0 +1,5 @@
+Python Libraries or Packages needed:
+1) BeautifulSoup4 (bs4)
+2) Requests
+3) tqdm
+4) progressbar
